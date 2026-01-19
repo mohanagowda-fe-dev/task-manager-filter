@@ -1,4 +1,4 @@
-## Smart Task Manager (React) ##
+## Task Manager Filter(React) ##
 A real-world Task Management application built using React + Vite, designed step-by-step to cover core and advanced React concepts used in product companies.
 
 ## Features Implemented ##
